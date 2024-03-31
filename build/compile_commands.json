@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/zack/Desktop/poco_test/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_IPv6 -DPOCO_NO_STAT64 -DPOCO_OS_FAMILY_UNIX -DXML_DTD -DXML_GE -D_DEBUG -isystem /usr/local/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/APP.dir/start.cpp.o -c /Users/zack/Desktop/poco_test/start.cpp",
+  "file": "/Users/zack/Desktop/poco_test/start.cpp",
+  "output": "CMakeFiles/APP.dir/start.cpp.o"
+}
+]

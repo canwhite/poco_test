@@ -1,0 +1,3 @@
+/Users/zack/Desktop/poco_test/CMakeFiles/APP.dir
+/Users/zack/Desktop/poco_test/CMakeFiles/edit_cache.dir
+/Users/zack/Desktop/poco_test/CMakeFiles/rebuild_cache.dir
