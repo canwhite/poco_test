@@ -38,8 +38,6 @@ add_definitions(${Poco_DEFINITIONS})
 add_executable(${APP_NAME} ${SOURCE_FILES})
 
 target_link_libraries(${APP_NAME} Poco::Foundation Poco::Util Poco::Net)
-
-
 ```
 
 4) c++ standard
