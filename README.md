@@ -18,8 +18,11 @@ $ cmake ..
 $ cmake --build . --config Release
 $ make install 
 ```
-on Mac , it's necessary to tell CMake where to find the OpenSSL headers and libraries by setting the OPENSSL_ROOT_DIR
+
 ```
+on Mac , it's necessary to tell CMake where to find the OpenSSL headers and libraries by setting the OPENSSL_ROOT_DIR
+---
+
 cmake .. -DOPENSSL_ROOT_DIR=/usr/local/opt/openssl
 ```
 
@@ -30,7 +33,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 ```
 
-3)find poco in cmake 
+4) find poco in cmake 
 
 ```
 find_package(Poco REQUIRED 
